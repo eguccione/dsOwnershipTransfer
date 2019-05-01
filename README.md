@@ -15,10 +15,10 @@ There are two menu options on load
 This will list all data studio data sources and reports that the user owns (i.e. ignores DS files that have been shared with the user) and prints them on the spreadsheet
 
 User then needs to choose which files to transfer (if it's all then fill down with YES)
-You can send emails (for everysheet) to person you're transfering to but this is overkill and if this sheet is used I'll convert this to one email with all the links that are being transfered
+You can send emails (for every sheet) to person you're transferring to but this is overkill and if this sheet is used I'll convert this to one email with all the links that are being transferred
 
-2) transfer ownsership
-This will trasnfer ownership and add a note to each line if it's been transfered and the error if it hasn't.
+2) transfer ownserhip
+This will transfer ownership and add a note to each line if it's been transfered and the error if it hasn't.
 
 *if you transfer ownership to someone without access to the datasource underlying the DS datasources e.g. google sheet/GA this will break the data studio report*
 
